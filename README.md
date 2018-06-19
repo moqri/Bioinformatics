@@ -1,12 +1,13 @@
 # Bioinformatics
 
-### Docekrs and Containers
+### Docekrs, Containers, and Tools
 * [Singularity](https://singularity.lbl.gov/)
 * [CWL]()
 * [NextFlow]()
 * [SnakeMake]()
 * [NCI Cloud Resources]()
 * [Galaxy]()
+* [Bioconda](https://bioconda.github.io/)
 
 ### Data-Driven Discovery
 * [Cyverse](http://www.cyverse.org/)
